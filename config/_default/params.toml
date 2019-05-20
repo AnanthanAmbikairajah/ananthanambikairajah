@@ -55,11 +55,13 @@ phone = "+ 61 2 6125 3264"
 address = "Room 2.19, Florey Building, 54 Mills Road, The Australian National University, Acton, ACT, 2601, Canberra, Australia"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = #"""Monday 10:00 to 13:00<br>
-               #   Wednesday 09:00 to 10:00"""
+#"""Monday 10:00 to 13:00<br>
+#   Wednesday 09:00 to 10:00"""
 
-# Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = #"https://calendly.com"
+office_hours = ""
+
+# Enter an optional link for booking appointments (e.g. calendly.com). i.e. "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
