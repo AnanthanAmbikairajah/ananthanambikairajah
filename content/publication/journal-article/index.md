@@ -1,7 +1,7 @@
 ---
 abstract: 
 authors:
-**Ambikairajah, A.**
+- Ambikairajah, A.
 - Walsh, E.
 - Tabatabaei-Jafari, H.
 - Cherbuin, N.
@@ -22,7 +22,7 @@ slides: ""
 summary: ""
 tags:
 - Source Themes
-title: Fat mass changes during menopause: a meta-analysis.
+title: "Fat mass changes during menopause: a meta-analysis."
 url_code: ""
 url_dataset: ""
 url_pdf: https://doi.org/10.1016/j.ajog.2019.04.023
