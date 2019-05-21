@@ -29,7 +29,7 @@ subtitle = ""
   # image_darken =  # Darken the image? Range 0-1 where 0 is transparent and 1   # is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -43,5 +43,10 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% staticref "files/application-form.docx" "newtab" %}}Application Form{{% /staticref %}}
+Applications close April 15, 2020.
+
+{{% staticref "files/terms-and-conditions.pdf" "newtab" %}} Terms and Conditions {{% /staticref %}}
+{{% staticref "files/referee-consent-form.pdf" "newtab" %}} Referee Consent Form {{% /staticref %}}
+{{% staticref "files/parent-guardian-consent-form.pdf" "newtab" %}} Parent/Guardian Consent Form {{% /staticref %}}
+{{% staticref "files/application-form.docx" "newtab" %}} Application Form {{% /staticref %}}
 
