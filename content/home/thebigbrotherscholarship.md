@@ -33,7 +33,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["100px", "0", "500px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -44,9 +44,4 @@ subtitle = ""
 +++
 
 {{% staticref "files/application-form.docx" "newtab" %}}Application Form{{% /staticref %}}
-
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
 
