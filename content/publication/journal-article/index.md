@@ -6,14 +6,14 @@ authors:
 - Tabatabaei-Jafari, H.
 - Cherbuin, N.
 date: "2019-04-26T00:00:00Z"
-doi: "10.1016/j.ajog.2019.04.023"
+doi: ""
 featured: false
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 projects: []
-publication: '**Ambikairajah, A.**, Walsh, E., Tabatabaei-Jafari, H., & Cherbuin, N. (2019). Fat mass changes during menopause: a meta-analysis. ***American Journal of Obstetrics & Gynecology***, *Accepted in Press* [doi:10.1016/j.ajog.2019.04.023](https://doi.org/10.1016/j.ajog.2019.04.023)'
+citation: '**Ambikairajah, A.**, Walsh, E., Tabatabaei-Jafari, H., & Cherbuin, N. (2019). Fat mass changes during menopause: a meta-analysis. ***American Journal of Obstetrics & Gynecology***, *Accepted in Press* [doi:10.1016/j.ajog.2019.04.023](https://doi.org/10.1016/j.ajog.2019.04.023)'
 publication_short: ""
 publication_types:
 - "2"
@@ -21,7 +21,7 @@ publishDate: "Accepted in Press"
 slides: ""
 summary: ""
 tags:
-- fat mass, menopause, meta-analysis, premenopausal women, postmenopausal women
+- fat mass; menopause; meta-analysis; premenopausal women; postmenopausal women
 title: "Fat mass changes during menopause: a meta-analysis"
 url_code: ""
 url_dataset: ""
