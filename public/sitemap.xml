@@ -56,12 +56,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -142,15 +136,6 @@
   </url>
   
   <url>
-    <loc>/publication/journal-article/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/ananthan-ambikairajah/</loc>
     <priority>0</priority>
   </url>
@@ -158,10 +143,6 @@
   <url>
     <loc>/publication_types/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
   </url>
   
 </urlset>
