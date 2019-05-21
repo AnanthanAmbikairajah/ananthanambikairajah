@@ -14,13 +14,13 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "The Big Brother Scholarship"
+  url = "#thebigbrotherscholarship"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publication"
   weight = 40
 
 [[main]]
