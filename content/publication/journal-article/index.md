@@ -19,7 +19,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'American Journal of Obstetrics & Gynecology'
+publication: '***American Journal of Obstetrics & Gynecology***, *Accepted in Press*'
 publication_short: ""
 publication_types:
 - "2"
