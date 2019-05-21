@@ -33,7 +33,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "0", "500px", "0"]
+  padding = ["100px", "0", "300px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -43,10 +43,11 @@ subtitle = ""
  css_class = ""
 +++
 
-Applications close April 15, 2020.
+Applications close April 15th, 2020.
 
-{{% staticref "files/terms-and-conditions.pdf" "newtab" %}} Terms and Conditions {{% /staticref %}}
-{{% staticref "files/referee-consent-form.pdf" "newtab" %}} Referee Consent Form {{% /staticref %}}
-{{% staticref "files/parent-guardian-consent-form.pdf" "newtab" %}} Parent/Guardian Consent Form {{% /staticref %}}
-{{% staticref "files/application-form.docx" "newtab" %}} Application Form {{% /staticref %}}
+* {{% staticref "files/terms-and-conditions.pdf" "newtab" %}} Terms and Conditions {{% /staticref %}}    
+* {{% staticref "files/referee-consent-form.pdf" "newtab" %}} Referee Consent Form {{% /staticref %}}    
+* {{% staticref "files/parent-guardian-consent-form.pdf" "newtab" %}} Parent/Guardian Consent Form {{% /staticref %}}    
+* {{% staticref "files/application-form.docx" "newtab" %}} Application Form {{% /staticref %}} 
 
+If you have any questions, please email thebigbrotherscholarship@gmail.com
