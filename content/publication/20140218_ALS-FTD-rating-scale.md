@@ -18,11 +18,11 @@ image:
   preview_only: false
 projects: []
 citation: '**Ambikairajah, A.,** Devenney, E., Flanagan, E., Yew, B., Mioshi, E., Kiernan, M. C., Hodges, J. R., & Hornberger, M. (2014). A visual MRI atrophy rating scale for the amyotrophic lateral sclerosis-frontotemporal dementia continuum. ***Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration***, 15(3-4), 226-234. [doi:10.3109/21678421.2014.880180](https://doi.org/10.3109/21678421.2014.880180)'
-publication_short: "**Ambikairajah, A.,** Devenney, E., Flanagan, E., Yew, B., Mioshi, E., Kiernan, M. C., Hodges, J. R., & Hornberger, M. (2014). A visual MRI atrophy rating scale for the amyotrophic lateral sclerosis-frontotemporal dementia continuum. ***Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration***, 15(3-4), 226-234. [doi:10.3109/21678421.2014.880180](https://doi.org/10.3109/21678421.2014.880180)"
+publication_short: ""
 publication_types: 
 publishDate: "18/02/14"
 slides: ""
-summary: ""
+summary: "**Ambikairajah, A.,** Devenney, E., Flanagan, E., Yew, B., Mioshi, E., Kiernan, M. C., Hodges, J. R., & Hornberger, M. (2014). A visual MRI atrophy rating scale for the amyotrophic lateral sclerosis-frontotemporal dementia continuum. ***Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration***, 15(3-4), 226-234. [doi:10.3109/21678421.2014.880180](https://doi.org/10.3109/21678421.2014.880180)"
 tags:
 - 
 title: "A visual MRI atrophy rating scale for the amyotrophic lateral sclerosis-frontotemporal dementia continuum"
