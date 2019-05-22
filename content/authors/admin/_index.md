@@ -1,8 +1,7 @@
 ---
 authors:
 - Ananthan Ambikairajah
-bio: Neuroscientist. Educator. Motivator.  programmable
-  matter.
+bio: Neuroscientist. Educator. Motivator.
 education:
   courses:
   - course: PhDc in Neuroscience
