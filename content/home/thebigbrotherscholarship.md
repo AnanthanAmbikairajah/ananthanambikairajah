@@ -33,7 +33,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "0", "150px", "0"]
+  padding = ["100px", "0", "100px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -42,8 +42,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**About The Big Brother Scholarship**
-
 The goal of The Big Brother Scholarship is to provide support for a student who is in need of some form of mentorship in their lives. This support will include a $500 stipend, in addition to monthly mentoring sessions, to help students with either their personal or professional lives. These monthly mentoring sessions will broadly be focused around goal setting activities, in addition to developing the skills to establish a strong professional and/or personal network so that students can achieve their goals.    
 
 The Big Brother Scholarship also aims to provide all prospective applicants with an opportunity to gain experience with key elements of an application process. Prospective applicants will gain experience with writing a personal statement, creating a resume, getting a document certified, reaching out to potential referees and responding to written application questions. The process of applying for The Big Brother Scholarship will provide prospective applicants with valuable feedback and insights, which will help facilitate their professional development.    
