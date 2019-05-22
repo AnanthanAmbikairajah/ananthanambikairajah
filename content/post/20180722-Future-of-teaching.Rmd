@@ -2,8 +2,6 @@
 title: "The Future of Teaching In The Digital Age"
 author: "Ananthan Ambikairajah"
 date: 2018-07-22T21:13:14-05:00
-categories: 
-tags:
 ---
 **The Future of Teaching In The Digital Age**    
 
