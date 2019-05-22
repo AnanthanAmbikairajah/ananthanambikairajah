@@ -56,5 +56,3 @@ Applications close April 15th, 2020.
 * {{% staticref "files/application-form.docx" "newtab" %}} Application Form {{% /staticref %}} 
 
 If you have any questions, please email [thebigbrotherscholarship@gmail.com](mailto:thebigbrotherscholarship@gmail.com)
-
-[email](mailto:timotheebonnetc@gmail.com)
