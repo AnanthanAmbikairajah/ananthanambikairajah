@@ -25,7 +25,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/vinci.jpg" # Name of image in `static/img/`.
+  # image = "headers/vinci.jpg" # Name of image in `static/img/`.
   # image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1   # is opaque.
 
   # Text color (true=light or false=dark).
@@ -33,7 +33,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "0", "300px", "0"]
+  padding = ["100px", "0", "150px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -42,6 +42,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**About The Big Brother Scholarship**
+
+The goal of The Big Brother Scholarship is to provide support for a student who is in need of some form of mentorship in their lives. This support will include a $500 stipend, in addition to monthly mentoring sessions, to help students with either their personal or professional lives. These monthly mentoring sessions will broadly be focused around goal setting activities, in addition to developing the skills to establish a strong professional and/or personal network so that students can achieve their goals.    
+
+The Big Brother Scholarship also aims to provide all prospective applicants with an opportunity to gain experience with key elements of an application process. Prospective applicants will gain experience with writing a personal statement, creating a resume, getting a document certified, reaching out to potential referees and responding to written application questions. The process of applying for The Big Brother Scholarship will provide prospective applicants with valuable feedback and insights, which will help facilitate their professional development.    
 
 Applications close April 15th, 2020.
 
@@ -50,4 +55,6 @@ Applications close April 15th, 2020.
 * {{% staticref "files/parent-guardian-consent-form.pdf" "newtab" %}} Parent/Guardian Consent Form {{% /staticref %}}    
 * {{% staticref "files/application-form.docx" "newtab" %}} Application Form {{% /staticref %}} 
 
-If you have any questions, please email thebigbrotherscholarship@gmail.com
+If you have any questions, please email [thebigbrotherscholarship@gmail.com](mailto:thebigbrotherscholarship@gmail.com)
+
+[email](mailto:timotheebonnetc@gmail.com)
