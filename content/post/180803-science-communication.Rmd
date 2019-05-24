@@ -3,7 +3,7 @@ title: "Should scientists engage with the public?"
 author: "Ananthan Ambikairajah"
 date: 2018-07-27T21:13:14-05:00
 ---
-![](img/science-communication.jpg)
+![](./science-communication.jpg)
 
 Words are incredible. Words can be used to express ideas, comfort others, inspire movements to spark change, create music that can unite people from different cultures…the list goes on. Equally so, however, words can be used to spread misinformation, cause confusion that leads to conflict and distrust, especially when taken out of context.    
 
