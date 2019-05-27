@@ -13,6 +13,13 @@ education:
   - course: Bachelor of Science (Neuroscience)
     institution: University of New South Wales - School of Medical Science
     year: 2012-2015
+  - course: Diploma of Educational Studies
+    institution: College of Teachers, London
+    year: 2013
+  - course: Higher School Certificate
+    institution: Sydney Technical High School
+    year: 2011
+    
 email: "a.ambikairajah@gmail.com"
 interests:
 - Neuroscience
