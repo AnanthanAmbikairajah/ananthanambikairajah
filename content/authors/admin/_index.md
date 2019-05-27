@@ -1,7 +1,7 @@
 ---
 authors:
 - Ananthan Ambikairajah
-bio: Neuroscientist. Educator. Motivator.
+bio: Neuroscientist. Educator. Science Communicator.
 education:
   courses:
   - course: PhDc in Neuroscience
@@ -13,12 +13,6 @@ education:
   - course: Bachelor of Science (Neuroscience)
     institution: University of New South Wales - School of Medical Science
     year: 2012-2015
-  - course: Diploma of Educational Studies
-    institution: College of Teachers, London
-    year: 2013
-  - course: Higher School Certificate
-    institution: Sydney Technical High School
-    year: 2011
     
 email: "a.ambikairajah@gmail.com"
 interests:
@@ -58,4 +52,6 @@ user_groups:
 - Visitors
 ---
 
-Ananthan Ambikairajah is a passionate neuroscientist and educator, who has completed his Bachelor of Science (Neuroscience), and Master of Teaching (Secondary) degrees at the University of New South Wales (UNSW), Sydney. As a result, Ananthan has published research in areas of neuroscience and education. Ananthan currently works with the Centre for Research on Ageing, Health and Wellbeing at the Research School of Population Health within the Australian National University (ANU) and is completing his PhD, which aims to understand how physiological changes after menopause impact the brain. Ananthan is determined to conduct research that can have a positive, widespread impact on society, in addition to communicating his scientific work to the public to spark interest, critical thought and encourage scientific discourse.
+Ananthan Ambikairajah is a passionate neuroscientist, educator and science communicator. His research interests include genetic, environmental and lifestyle factors which influence brain health, with a particular focus on neurodegenerative diseases, such as dementia. 
+
+Ananthan is currently completing his PhD, which aims to investigate how physiological changes during midlife impact the brain. Ananthan is determined to conduct research that can have a positive, widespread impact on society, in addition to communicating his scientific work to the public to spark interest, critical thought and encourage scientific discourse. 
