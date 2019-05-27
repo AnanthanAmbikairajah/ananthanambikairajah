@@ -9,18 +9,18 @@
   weight = 10
 
 [[main]]
-  name = "The Big Brother Scholarship"
-  url = "#thebigbrotherscholarship"
-  weight = 20
-
-[[main]]
   name = "Paper Publications"
   url = "#publications"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Blog"
   url = "#posts"
+  weight = 30
+  
+[[main]]
+  name = "The Big Brother Scholarship"
+  url = "#thebigbrotherscholarship"
   weight = 40
   
 [[main]]
