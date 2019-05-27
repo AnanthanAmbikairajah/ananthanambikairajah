@@ -114,11 +114,6 @@
   </url>
   
   <url>
-    <loc>/post/180809-work-ethic/</loc>
-    <lastmod>2018-08-09T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/180803-science-communication/</loc>
     <lastmod>2018-08-03T21:13:14-05:00</lastmod>
   </url>
@@ -261,6 +256,10 @@
   <url>
     <loc>/publication_types/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/180809-work-ethic/</loc>
   </url>
   
 </urlset>
