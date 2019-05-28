@@ -32,6 +32,6 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = <a href="http://ananthanambikairajah.com/files/Ananthan Ambikairajah CV.pdf" target="_blank">CV</a>
+  url = "files/Ananthan Ambikairajah CV.pdf"
   weight = 60
 
