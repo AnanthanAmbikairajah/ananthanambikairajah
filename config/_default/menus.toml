@@ -34,4 +34,8 @@
   name = "CV"
   url = "files/Ananthan Ambikairajah CV.pdf"
   weight = 60
-
+  
+[[main]]
+  name = "Media/Talks"
+  url = "files/Ananthan Ambikairajah Media.pdf"
+  weight = 70
