@@ -23,19 +23,19 @@
   url = "#thebigbrotherscholarship"
   weight = 40
   
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 50
-  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "files/Ananthan Ambikairajah CV.pdf"
-  weight = 60
+  weight = 50
   
 [[main]]
   name = "Media/Talks"
   url = "files/Ananthan Ambikairajah Media.docx"
+  weight = 60
+  
+[[main]]
+  name = "Contact"
+  url = "#contact"
   weight = 70
