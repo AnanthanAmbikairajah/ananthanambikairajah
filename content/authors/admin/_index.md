@@ -49,6 +49,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/ananthanambikairajah
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UC9jpfOihAcWfdL9WJ2P63SQ
 superuser: true
 user_groups:
 - Researchers
