@@ -19,23 +19,28 @@
   weight = 30
   
 [[main]]
+  name = "Podcast"
+  url = "#midnightconversations"
+  weight = 40
+  
+[[main]]
   name = "The Big Brother Scholarship"
   url = "#thebigbrotherscholarship"
-  weight = 40
+  weight = 50
   
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "files/Ananthan Ambikairajah CV.pdf"
-  weight = 50
+  weight = 60
   
 [[main]]
   name = "Media/Talks"
   url = "files/Ananthan Ambikairajah Media.pdf"
-  weight = 60
+  weight = 70
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 80
