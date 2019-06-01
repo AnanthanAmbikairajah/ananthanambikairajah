@@ -4,8 +4,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = ""
+title = "Midnight Conversations Podcast"
 subtitle = ""
+
+- icon: soundcloud
+  icon_pack: fab
+  link: https://soundcloud.com/user-838401350
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,7 +29,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/Midnight Conversations.jpg"  # Name of image in `static/img/`.
+  image = "headers/Midnight Conversations.jpeg"  # Name of image in `static/img/`.
   image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
