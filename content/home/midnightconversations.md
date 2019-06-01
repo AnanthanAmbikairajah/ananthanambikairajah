@@ -7,10 +7,6 @@ weight = 40  # Order that this section will appear.
 title = "Midnight Conversations Podcast"
 subtitle = ""
 
-- icon: soundcloud
-  icon_pack: fab
-  link: https://soundcloud.com/user-838401350
-
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"

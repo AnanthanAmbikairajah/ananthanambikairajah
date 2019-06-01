@@ -52,6 +52,9 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UC9jpfOihAcWfdL9WJ2P63SQ
+- icon: soundcloud
+  icon_pack: fab
+  link: https://soundcloud.com/user-838401350
 superuser: true
 user_groups:
 - Researchers
