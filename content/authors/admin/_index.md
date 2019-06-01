@@ -31,6 +31,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=puLUrGUAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Ananthan_Ambikairajah
 - icon: github
   icon_pack: fab
   link: https://github.com/ananthanambikairajah
