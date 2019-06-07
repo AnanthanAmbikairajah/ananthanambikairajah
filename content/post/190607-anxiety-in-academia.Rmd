@@ -1,7 +1,7 @@
 ---
 title: "Anxiety in academia?"
 author: "Ananthan Ambikairajah"
-date: 2019-06-04T21:13:14-05:00
+date: 2019-06-07T21:13:14-05:00
 ---
 ![](./anxiety.jpg)
 
