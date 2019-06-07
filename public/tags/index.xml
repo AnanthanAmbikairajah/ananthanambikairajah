@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ananthan Ambikairajah</title>
+    <title>Ananthan Ambikairajah</title>
     <link>https://ananthanambikairajah.com/tags/</link>
-    <description>Recent content in Tags on Ananthan Ambikairajah</description>
+    <description>Recent content on Ananthan Ambikairajah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
@@ -12,30 +12,43 @@
     
     
     <item>
-      <title></title>
-      <link>https://ananthanambikairajah.com/tags/</link>
+      <title>Fat mass changes during menopause: a meta-analysis</title>
+      <link>https://ananthanambikairajah.com/publication/20190426_fat-mass-and-menopause-meta-analysis/</link>
       <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ananthanambikairajah.com/tags/</guid>
-      <description></description>
+      <guid>https://ananthanambikairajah.com/publication/20190426_fat-mass-and-menopause-meta-analysis/</guid>
+      <description>Abstract
+Background: Fat mass has been shown to increase in ageing women, however, the extent to which menopausal status mediates these changes remains unclear.
+Objectives: To determine (i) how fat mass differs in quantity and distribution between premenopausal and postmenopausal women, (ii) whether and how age and/or menopausal status moderates any observed differences and (iii) which type of fat mass measure is best suited to detecting differences in fat mass between groups.</description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://ananthanambikairajah.com/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>E-Examinations and the Student Experience Regarding Appropriateness of Assessment and Course Quality in Science and Medical Science</title>
+      <link>https://ananthanambikairajah.com/publication/20190107_e-exams/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ananthanambikairajah.com/tags/deep-learning/</guid>
-      <description></description>
+      <guid>https://ananthanambikairajah.com/publication/20190107_e-exams/</guid>
+      <description>Abstract
+The interest in, and use of, computers and software for assessment is reported to be increasingly popular via electronic examinations (e-exams). We deepen our understanding of the design, reception, and effectiveness of e-exams for history and philosophy of science modules, undertaken by first-year advanced science and medical science students at university. We employ a quasi-experimental research design approach to examine our implementation of e-exams on reported student satisfaction regarding the suitability of the information provided about the assessment requirements, appropriateness of the assessment methods, and overall quality of the associated courses.</description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>https://ananthanambikairajah.com/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>First behavioural characterisation of a knockout mouse model for the transforming growth factor (TGF)-β superfamily cytokine, MIC-1/GDF15</title>
+      <link>https://ananthanambikairajah.com/publication/20170112_mic-1/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ananthanambikairajah.com/tags/demo/</guid>
-      <description></description>
+      <guid>https://ananthanambikairajah.com/publication/20170112_mic-1/</guid>
+      <description>Abstract
+Macrophage inhibitory cytokine-1 (MIC-1), also known as growth differentiation factor 15 (GDF15), is a stress response cytokine. MIC-1/GDF15 is secreted into the cerebrospinal fluid and increased levels of MIC-1/GDF15 are associated with a variety of diseases including cognitive decline. Furthermore, Mic-1/Gdf15 knockout mice (Mic-1 KO) weigh more, have increased adiposity, associated with increased spontaneous food intake, and exhibit reduced basal energy expenditure and physical activity. The current study was designed to comprehensively determine the role of MIC-1/GDF15 on behavioural domains of male and female knockout mice including locomotion, exploration, anxiety, cognition, social behaviours, and sensorimotor gating.</description>
+    </item>
+    
+    <item>
+      <title>A visual MRI atrophy rating scale for the amyotrophic lateral sclerosis-frontotemporal dementia continuum</title>
+      <link>https://ananthanambikairajah.com/publication/20140218_als-ftd-rating-scale/</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananthanambikairajah.com/publication/20140218_als-ftd-rating-scale/</guid>
+      <description>&lt;strong&gt;Ambikairajah, A.,&lt;/strong&gt; Devenney, E., Flanagan, E., Yew, B., Mioshi, E., Kiernan, M. C., Hodges, J. R., &amp;amp; Hornberger, M. (2014). A visual MRI atrophy rating scale for the amyotrophic lateral sclerosis-frontotemporal dementia continuum. &lt;strong&gt;&lt;em&gt;Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration&lt;/em&gt;&lt;/strong&gt;, 15(3-4), 226-234. &lt;a href=&#34;https://doi.org/10.3109/21678421.2014.880180&#34; target=&#34;_blank&#34;&gt;doi:10.&lt;sup&gt;3109&lt;/sup&gt;&amp;frasl;&lt;sub&gt;21678421&lt;/sub&gt;.2014.880180&lt;/a&gt;</description>
     </item>
     
   </channel>
