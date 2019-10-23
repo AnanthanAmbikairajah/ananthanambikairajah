@@ -32,7 +32,7 @@ url_video: ""
 ---
 **Abstract**   
 
-**Objectives:** To determine lipid profile differences between premenopausal and postmenopausal women. 
+**Objectives:** To determine lipid profile differences between premenopausal and postmenopausal women.   
 **Method:** The present review utilised a meta-analytic approach. 66 studies were included, which provided a total sample of 114,655 women consisting of 68,394 that were premenopausal and 46,261 that were postmenopausal.   
 **Results:** The main findings were that (1) lipoproteins were significantly higher in postmenopausal women compared to premenopausal women including triglycerides (0.27 mmol/L, 95% confidence interval, 0.22 to 0.31), total cholesterol (0.58, 0.50 to 0.65), low-density lipoprotein (0.45, 0.38 to 0.53) and total cholesterol to high-density lipoprotein levels (0.39, 0.16 to 0.62), (2) there was no difference in high-density lipoprotein levels between premenopausal and postmenopausal women (0.02, -0.00 to 0.04) and (3) the differences in lipid levels was partly attributable to the mean age difference between premenopausal and postmenopausal women.   
 **Conclusions:** These findings are important as they provide precise estimates of lipid differences in women around menopause. Furthermore the results suggest that the unfavourable lipid profile that develops in postmenopausal women puts them at higher risk of cardiovascular disease such as heart disease and stroke if appropriate lifestyle/pharmacological interventions are not implemented.   
