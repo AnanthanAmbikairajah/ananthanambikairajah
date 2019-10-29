@@ -32,12 +32,12 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "https://ananthanambikairajah.com/static/files/Ananthan_Ambikairajah_CV.pdf"
+  url = "https://ananthanambikairajah.com/files/Ananthan_Ambikairajah_CV.pdf"
   weight = 60
 
 [[main]]
   name = "Media/Talks"
-  url = "https://ananthanambikairajah.com/static/files/Ananthan_Ambikairajah_Media_Outreach.pdf"
+  url = "https://ananthanambikairajah.com/files/Ananthan_Ambikairajah_Media_Outreach.pdf"
   weight = 70
   
 [[main]]
