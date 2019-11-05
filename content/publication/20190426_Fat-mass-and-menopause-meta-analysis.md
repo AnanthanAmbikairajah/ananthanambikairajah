@@ -13,10 +13,10 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-citation: '**Ambikairajah, A.**, Walsh, E., Tabatabaei-Jafari, H., & Cherbuin, N. (2019). Fat mass changes during menopause: a meta-analysis. ***American Journal of Obstetrics & Gynecology***, *Accepted in Press* [doi:10.1016/j.ajog.2019.04.023](https://doi.org/10.1016/j.ajog.2019.04.023)'
+citation: '**Ambikairajah, A.**, Walsh, E., Tabatabaei-Jafari, H., & Cherbuin, N. (2019). Fat mass changes during menopause: a meta-analysis. *American Journal of Obstetrics & Gynecology*, 221(5), 393-409.e50. [doi:10.1016/j.ajog.2019.04.023](https://doi.org/10.1016/j.ajog.2019.04.023)'
 publication_short: ""
 publication_types:
-publishDate: "Accepted in Press"
+publishDate: "01/11/2019"
 slides: ""
 summary: ""
 tags:
@@ -41,4 +41,4 @@ url_video: "https://www.youtube.com/watch?v=DtShNpdXmXk&feature=youtu.be&fbclid=
 **Conclusions:** The change in fat mass quantity between premenopausal and postmenopausal women was predominantly attributable to increasing age with menopause having no significant additional influence. However, the decrease in total leg fat percentage and increase in measures of central fat are indicative of a possible change in fat mass distribution after menopause. These changes are likely to, at least in part, be due to hormonal shifts that occur during midlife with women having a higher androgen (i.e. testosterone) to estradiol ratio after menopause, which has been linked to enhanced central adiposity deposition. Evidently, these findings suggest attention should be paid to the accumulation of central fat after menopause, whereas increases in total fat mass should be monitored consistently across the lifespan.    
 
 **Citation:**    
-**Ambikairajah, A.**, Walsh, E., Tabatabaei-Jafari, H., & Cherbuin, N. (2019). Fat mass changes during menopause: a meta-analysis. ***American Journal of Obstetrics & Gynecology***, *Accepted in Press* [doi:10.1016/j.ajog.2019.04.023](https://doi.org/10.1016/j.ajog.2019.04.023)
+**Ambikairajah, A.**, Walsh, E., Tabatabaei-Jafari, H., & Cherbuin, N. (2019). Fat mass changes during menopause: a meta-analysis. *American Journal of Obstetrics & Gynecology*, 221(5), 393-409.e50. [doi:10.1016/j.ajog.2019.04.023](https://doi.org/10.1016/j.ajog.2019.04.023)

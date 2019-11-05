@@ -12,10 +12,10 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-citation: '**Ambikairajah, A.**, Walsh, E., & Cherbuin, N. (2019). Lipid profile differences during menopause: a review with meta-analysis. ***Menopause***, *Accepted in Press* [doi:10.1097/GME.0000000000001403](https://doi.org/10.1097/GME.0000000000001403)'
+citation: '**Ambikairajah, A.**, Walsh, E., & Cherbuin, N. (2019). Lipid profile differences during menopause: a review with meta-analysis. *Menopause*, 26(11), 1327-1333. [doi:10.1097/GME.0000000000001403](https://doi.org/10.1097/GME.0000000000001403)'
 publication_short: ""
 publication_types:
-publishDate: "Accepted in Press"
+publishDate: "04/11/2019"
 slides: ""
 summary: ""
 tags:
@@ -39,4 +39,4 @@ url_video: ""
  
 
 **Citation:**    
-**Ambikairajah, A.**, Walsh, E., & Cherbuin, N. (2019). Lipid profile differences during menopause: a review with meta-analysis. ***Menopause***, *Accepted in Press* [doi:10.1097/GME.0000000000001403](https://doi.org/10.1097/GME.0000000000001403)
+**Ambikairajah, A.**, Walsh, E., & Cherbuin, N. (2019). Lipid profile differences during menopause: a review with meta-analysis. *Menopause*, 26(11), 1327-1333. [doi:10.1097/GME.0000000000001403](https://doi.org/10.1097/GME.0000000000001403)
