@@ -35,6 +35,11 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
 **Abstract**   
 
 Our objective was to distinguish ALS, ALS-FTD and bvFTD via a novel visual MRI cortical atrophy scale that can be employed in a clinical setting. MRI images of 100 participants (33 ALS, 11 ALS-FTD, 22 bvFTD and 34 controls) were rated in four brain areas: orbitofrontal cortex, anterior temporal pole, anterior cingulate, and motor cortex. Areas were rated on a 5- point Likert scale by two raters blinded to the diagnosis. Results demonstrated that bvFTD patients showed the highest levels of atrophy across all regions, while ALS patients had the lowest atrophy scores. ALS-FTD patients have higher atrophy ratings compared to ALS patients for the motor cortex, anterior cingulate and anterior temporal lobe, with a statistical trend for the orbitofrontal cortex. ALS-FTD patients were not significantly different from bvFTD for any of the brain regions. These findings were confirmed in a post hoc VBM analysis of the same participants. Our study demonstrates that a simple visual MRI rating scale can reliably distinguish ALS, ALS-FTD and bvFTD atrophy patterns in a clinical setting. Motor cortex, anterior cingulate and anterior temporal atrophy emerged as good diagnostic markers for ALS-FTD. Employment of this MRI rating scale can complement clinical diagnostics of patients in the ALS-FTD continuum.   
