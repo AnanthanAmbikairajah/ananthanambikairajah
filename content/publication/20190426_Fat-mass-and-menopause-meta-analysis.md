@@ -18,7 +18,7 @@ publication_short: ""
 publication_types:
 publishDate: "01/11/2019"
 slides: ""
-summary: ""
+summary: "**Ambikairajah, A.**, Walsh, E., Tabatabaei-Jafari, H., & Cherbuin, N. (2019). Fat mass changes during menopause: a meta-analysis. *American Journal of Obstetrics & Gynecology*, 221(5), 393-409.e50. [doi:10.1016/j.ajog.2019.04.023](https://doi.org/10.1016/j.ajog.2019.04.023)"
 tags:
 - 
 title: "Fat mass changes during menopause: a meta-analysis"
