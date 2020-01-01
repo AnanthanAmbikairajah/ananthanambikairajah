@@ -34,6 +34,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ananthan_Ambikairajah
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1824248/ananthan-ambikairajah/
 - icon: github
   icon_pack: fab
   link: https://github.com/ananthanambikairajah
