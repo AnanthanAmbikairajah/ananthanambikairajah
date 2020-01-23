@@ -28,7 +28,7 @@ tags:
 title: "A visual MRI atrophy rating scale for the amyotrophic lateral sclerosis-frontotemporal dementia continuum"
 url_code: ""
 url_dataset: ""
-url_pdf: https://doi.org/10.3109/21678421.2014.880180
+url_pdf: "https://ananthanambikairajah.com/files/Ambikairajah_et_al_2014_A_visual_MRI_atrophy_Amyotrophic_Lateral_Sclerosis_and_Frontotemporal_Degeneration"
 url_poster: ""
 url_project: ""
 url_slides: ""
