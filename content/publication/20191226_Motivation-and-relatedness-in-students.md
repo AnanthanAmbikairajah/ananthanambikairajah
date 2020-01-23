@@ -23,7 +23,7 @@ tags:
 title: "The impact of improving feelings of relatedness on motivation and engagement for tertiary students"
 url_code: ""
 url_dataset: ""
-url_pdf: https://doi.org/10.1080/0020739X.2019.1703149
+url_pdf: "https://ananthanambikairajah.com/files/Ambikairajah_et_al_2019_The_impact_of_IJMEST.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

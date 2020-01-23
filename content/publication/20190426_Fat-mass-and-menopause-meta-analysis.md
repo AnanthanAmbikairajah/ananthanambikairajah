@@ -24,7 +24,7 @@ tags:
 title: "Fat mass changes during menopause: a meta-analysis"
 url_code: ""
 url_dataset: ""
-url_pdf: https://doi.org/10.1016/j.ajog.2019.04.023
+url_pdf: "https://ananthanambikairajah.com/files/Ambikairajah_et_al_2019_Fat_mass_changes_AJOG.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

@@ -23,7 +23,7 @@ tags:
 title: "Lipid profile differences during menopause: a review with meta-analysis"
 url_code: ""
 url_dataset: ""
-url_pdf: https://doi.org/10.1097/GME.0000000000001403
+url_pdf: "https://ananthanambikairajah.com/files/Ambikairajah_et_al_2019_Lipid_profile_Menopause.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
