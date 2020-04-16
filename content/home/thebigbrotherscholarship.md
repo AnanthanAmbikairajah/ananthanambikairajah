@@ -51,7 +51,7 @@ The Big Brother Scholarship also aims to provide all prospective applicants with
 
 Applications close 5pm, April 15th, 2021.
 
-* [Terms and Conditions](https://ananthanambikairajah.com/files/terms-and-conditions.pdf)
+* [Terms and Conditions](https://ananthanambikairajah.com/files/terms-and-conditions.pdf){:target="_blank"}
 * <a href="https://ananthanambikairajah.com/files/terms-and-conditions.pdf" target="_blank">Terms and Conditions</a>
 * {{% staticref "static/files/terms-and-conditions.pdf" "newtab" %}} Terms and Conditions {{% /staticref %}}    
 * {{% staticref "static/files/referee-consent-form.pdf" "newtab" %}} Referee Consent Form {{% /staticref %}}    
