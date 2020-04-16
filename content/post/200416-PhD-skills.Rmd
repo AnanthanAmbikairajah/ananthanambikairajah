@@ -1,5 +1,5 @@
 ---
-title: "Top 5 PhD Skills/Tools to help make your journey a little easier..."
+title: "Top 5 PhD skills/tools to help make your journey a little easier..."
 author: "Ananthan Ambikairajah"
 date: 2020-04-15T21:13:14-05:00
 ---
@@ -9,7 +9,7 @@ A PhD can be tough. This is not an uncommon statement (made by those doing a PhD
 
 *Number 1: Learn to code*
 
-Coding is one of those skills which can be extremely daunting, especially to someone who has never written code before. I know this because before starting the PhD, I had hardly any experience with coding. Why is it worth to learn how to code? This can be a blogpost in itself but I will list a few reasons. Firstly, some programming languages, such as R, are free! This means that you never need to buy a license to run your analyses. Secondly, coding allows your analyses to be reproducible. You are essentially detailing every step you take and the logic behind each step. This allows others to follow the same recipe and achieve the same result. Once you learn R, the possibilities are endless! With R, written my ![CV](https://ananthanambikairajah.com/files/Ananthan_Ambikairajah_CV.pdf), made my ![website](https://ananthanambikairajah.com), made presentations, written a manuscript - literally everything! 
+Coding is one of those skills which can be extremely daunting, especially to someone who has never written code before. I know this because before starting the PhD, I had hardly any experience with coding. Why is it worth to learn how to code? This can be a blogpost in itself but I will list a few reasons. Firstly, some programming languages, such as R, are free! This means that you never need to buy a license to run your analyses. Secondly, coding allows your analyses to be reproducible. You are essentially detailing every step you take and the logic behind each step. This allows others to follow the same recipe and achieve the same result. Once you learn R, the possibilities are endless! With R, written my  [CV](https://ananthanambikairajah.com/files/Ananthan_Ambikairajah_CV.pdf), made my [website](https://ananthanambikairajah.com), made presentations, written a manuscript - literally everything! 
 
 *Number 2: Learn Git (and some basics of the command line)*
 
