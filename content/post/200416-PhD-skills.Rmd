@@ -1,0 +1,29 @@
+---
+title: "Top 5 PhD Skills/Tools to help make your journey a little easier..."
+author: "Ananthan Ambikairajah"
+date: 2020-04-15T21:13:14-05:00
+---
+![](./code.jpg)
+
+A PhD can be tough. This is not an uncommon statement (made by those doing a PhD or who have watched someone do a PhD). However, I have come to realise that sometimes it can be unnecessarily tough. I am now in my 3rd year of my PhD and there are some essential skills that I have developed over the years which have helped me immensely during my candidature. As a result, I wanted to share my top 5 skills/tools (in no particular order) which I think may help you with your PhD journey. One thing you may notice is that these skills/tools have a connection with one another and can be integrated.
+
+*Number 1: Learn to code*
+
+Coding is one of those skills which can be extremely daunting, especially to someone who has never written code before. I know this because before starting the PhD, I had hardly any experience with coding. Why is it worth to learn how to code? This can be a blogpost in itself but I will list a few reasons. Firstly, some programming languages, such as R, are free! This means that you never need to buy a license to run your analyses. Secondly, coding allows your analyses to be reproducible. You are essentially detailing every step you take and the logic behind each step. This allows others to follow the same recipe and achieve the same result. Once you learn R, the possibilities are endless! With R, written my ![CV](https://ananthanambikairajah.com/files/Ananthan_Ambikairajah_CV.pdf), made my ![website](https://ananthanambikairajah.com), made presentations, written a manuscript - literally everything! 
+
+*Number 2: Learn Git (and some basics of the command line)*
+
+Have you ever had a million different files for one document? Each a slightly different version which reflects some stage of your thought/creative process? If so, learning git will be great for you! I use git as a form of version control for my code and also general non-coding files that may change over time. This allows me to comment changes that I make on a single document and access these different versions whenever I want, all with just one file. Also, I have two computers that I work between, and github allows me to work on a project on one computer, then **push** these changes. Once I log in to my other computer, I can **pull** these files and like magic, I can continue working exactly where I left off. Also, git can be integrated with R!
+
+*Number 3: Cloud storage - Google Drive*
+
+In a PhD organisation is key. Once you have your organisation system mapped out, using a cloud storage system, such as Google Drive is an absolute lifesaver. This allows me to store files and work between computers at all times. It also provides another layer of backup to my PhD. My supervisor always says, losing work is inevitable - the trick is to back up as often as you are willing to lose your work. Google Drive and GitHub provide some additional layers of backup for non-sensitive files, whilst adding the functionality of accessibility and convenience.  
+
+*Number 4: Reference manager - Zotero*
+I have used a few reference managers - starting with EndNote, then moving to Mendeley and finally Zotero. I personally prefer Zotero for a few reasons. Firstly, it is open source (noticing a trend with these tips?). Secondly, it has functionality that integrates with R (which allows me to write manuscripts and reference papers within the R environment). Thirdly, it has a web browser plugin which allows you to click one button and have the PDF automatically download to your Zotero library - that's it! One click and it is there. Finally, it links well with a cloud storage server, such as Google Drive. This means that I can work between two computers and the pdf files that have been downloaded are automatically synced between computers. 
+
+*Number 5: Get on social media - especially Twitter*
+Twitter has provided me with an opportunity to follow researchers and academics from all over the world and keep up with their work. It can be a place of immense social support and you can hear a lot of unique ideas/discussions. As with all social media outlets, there can be negatives and it can easily become a convenient procrastination tool, but generally I have found that the positives far outweigh these potential negatives. 
+
+That is it for my top 5 skills/tools! I hope you have found it useful. I would also love to hear what skills have helped you with your PhD journey! 
+
