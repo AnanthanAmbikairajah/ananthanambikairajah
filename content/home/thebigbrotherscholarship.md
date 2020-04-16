@@ -49,11 +49,12 @@ The goal of The Big Brother Scholarship is to provide support for a student who 
 
 The Big Brother Scholarship also aims to provide all prospective applicants with an opportunity to gain experience with key elements of an application process. Prospective applicants will gain experience with writing a personal statement, creating a resume, getting a document certified, reaching out to potential referees and responding to written application questions. The process of applying for The Big Brother Scholarship will provide prospective applicants with valuable feedback and insights, which will help facilitate their professional development.    
 
-Applications close April 15th, 2021.
+Applications close 5pm, April 15th, 2021.
 
-* {{% staticref "files/terms-and-conditions.pdf" "newtab" %}} Terms and Conditions {{% /staticref %}}    
-* {{% staticref "files/referee-consent-form.pdf" "newtab" %}} Referee Consent Form {{% /staticref %}}    
-* {{% staticref "files/parent-guardian-consent-form.pdf" "newtab" %}} Parent/Guardian Consent Form {{% /staticref %}}    
-* {{% staticref "files/application-form.docx" "newtab" %}} Application Form {{% /staticref %}} 
+* [Terms and Conditions]("https://ananthanambikairajah.com/files/terms-and-conditions.pdf")
+* {{% staticref "static/files/terms-and-conditions.pdf" "newtab" %}} Terms and Conditions {{% /staticref %}}    
+* {{% staticref "static/files/referee-consent-form.pdf" "newtab" %}} Referee Consent Form {{% /staticref %}}    
+* {{% staticref "static/files/parent-guardian-consent-form.pdf" "newtab" %}} Parent/Guardian Consent Form {{% /staticref %}}    
+* {{% staticref "static/files/application-form.docx" "newtab" %}} Application Form {{% /staticref %}} 
 
 If you have any questions, please email [thebigbrotherscholarship@gmail.com](mailto:thebigbrotherscholarship@gmail.com)
