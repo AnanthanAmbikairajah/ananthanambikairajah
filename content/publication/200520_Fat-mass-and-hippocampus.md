@@ -2,7 +2,7 @@
 abstract: 
 authors:
 - "**Ambikairajah, A.**"
-- Tabatabaei-Jafari, H.,
+- Tabatabaei-Jafari, H.
 - Walsh, E.
 - Hornberger, M.
 - Cherbuin, N.
