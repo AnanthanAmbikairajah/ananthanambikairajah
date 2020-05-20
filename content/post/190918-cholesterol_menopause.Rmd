@@ -1,9 +1,9 @@
 ---
-title: "Media Release - Cholesterol levels increase in post-menopausal women"
+title: "Cholesterol levels increase in post-menopausal women"
 author: "Ananthan Ambikairajah"
 date: 2019-09-18T21:13:14-05:00
 ---
-![](./menopause_cholesterol.jpg)
+![](./menopause_cholesterol.png)
 Women who have gone through menopause may need to keep an eye on their cholesterol levels, according to new research from The Australian National University (ANU).
 
 In a study of over 100,000 women, researchers found that post-menopausal women had higher cholesterol levels than premenopausal women.
