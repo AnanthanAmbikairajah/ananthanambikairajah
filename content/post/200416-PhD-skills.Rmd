@@ -15,9 +15,9 @@ Coding is one of those skills which can be extremely daunting, especially to som
 
 Have you ever had a million different files for one document? Each a slightly different version which reflects some stage of your thought/creative process? If so, learning git will be great for you! I use git as a form of version control for my code and also general non-coding files that may change over time. This allows me to comment changes that I make on a single document and access these different versions whenever I want, all with just one file. Also, I have two computers that I work between, and services like GitHub allow me to work on a project on one computer, then **push** these changes. Once I log in to my other computer, I can **pull** these files and like magic, I can continue working exactly where I left off. Also, git can be integrated with R!
 
-*Number 3: Cloud storage - Google Drive*
+*Number 3: Cloud storage*
 
-In a PhD organisation is key. Once you have your organisation system mapped out, using a cloud storage system, such as Google Drive is an absolute lifesaver. This allows me to store files and work between computers at all times. It also provides another layer of backup to my PhD. My supervisor always says, losing work is inevitable - the trick is to back up as often as you are willing to lose your work. Google Drive and GitHub provide some additional layers of backup for non-sensitive files, whilst adding the functionality of accessibility and convenience.  
+In a PhD organisation is key. Once you have your organisation system mapped out, using a cloud storage system is an absolute lifesaver. This allows me to store files and work between computers at all times. It also provides another layer of backup to my PhD. My supervisor always says, losing work is inevitable - the trick is to back up as often as you are willing to lose your work. Cloud storage systems and GitHub provide some additional layers of backup for non-sensitive files, whilst adding the functionality of accessibility and convenience.  
 
 *Number 4: Reference manager - Zotero*
 
