@@ -43,18 +43,18 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1824248/ananthan-ambikairajah/
-- icon: linkedin
-  icon_pack: fab
-  link: https://linkedin.com/in/ananthanambikairajah/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/AnanthanAmbi
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/ananthanambikairajah
-- icon: facebook
-  icon_pack: fab
-  link: https://facebook.com/ananthanambikairajah
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://linkedin.com/in/ananthanambikairajah/
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/AnanthanAmbi
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://instagram.com/ananthanambikairajah
+#- icon: facebook
+#  icon_pack: fab
+#  link: https://facebook.com/ananthanambikairajah
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UC9jpfOihAcWfdL9WJ2P63SQ
