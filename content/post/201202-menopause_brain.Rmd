@@ -1,7 +1,7 @@
 ---
 title: "Brains and bellies: In menopause, bigger can sometimes mean better"
 author: "Ananthan Ambikairajah"
-date: 2020-05-15T21:13:14-05:00
+date: 2020-10-20T21:13:14-05:00
 ---
 ![](./menopause_brain.png)
 During his PhD research, Ananthan Ambikairajah appeared in the media a number of times to report on his findings about the effects of menopause.
@@ -53,4 +53,4 @@ Because when it comes to understanding women's health, what we need is more info
 The study has been published in Menopause. The full study can be found [here](https://journals.lww.com/menopausejournal/Abstract/9000/Age,_menstruation_history,_and_the_brain.97065.aspx).
 
 **Citation:**    
-**Ambikairajah, A.**, Tabatabaei-Jafari, H., Hornberger, M., & Cherbuin, N. (2020). Age, menstruation history, and the brain. *Menopause*.
+**Ambikairajah, A.**, Tabatabaei-Jafari, H., Hornberger, M., & Cherbuin, N. (2020). Age, menstruation history, and the brain. *Menopause*. 28(2). Published ahead of print. [doi:10.1097/GME.0000000000001688](https://journals.lww.com/menopausejournal/Abstract/9000/Age,_menstruation_history,_and_the_brain.97065.aspx)
