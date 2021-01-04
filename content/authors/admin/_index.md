@@ -9,10 +9,10 @@ education:
     year: 2018 to date
   - course: Master of Teaching (Secondary)
     institution: University of New South Wales - School of Education
-    year: 2016-2017
+    year: 2016 - 2017
   - course: Bachelor of Science (Neuroscience)
     institution: University of New South Wales - School of Medical Science
-    year: 2012-2015
+    year: 2012 - 2015
     
 email: "a.ambikairajah@gmail.com"
 interests:
