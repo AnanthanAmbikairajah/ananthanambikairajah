@@ -43,4 +43,4 @@ subtitle = ""
  css_class = ""
 +++
 
-https://www.youtube.com/watch?v=H-CGqg1cQYg&t=1432s
+{{< youtube id="H-CGqg1cQYg&t" >}}
