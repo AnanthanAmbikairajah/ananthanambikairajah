@@ -1,10 +1,10 @@
 +++
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Featured talk: A summary of my PhD research"
+title = "Featured talk A summary of my PhD research"
 subtitle = ""
 
 [design]
