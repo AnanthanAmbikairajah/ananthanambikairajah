@@ -21,9 +21,10 @@ interests:
 - Science Communication
 name: Ananthan Ambikairajah
 organizations:
-- name: Australian National University
-  url: "https://rsph.anu.edu.au/people/students/mr-ananthan-ambikairajah"
-role: PhD Scholar
+- name: University of Canberra
+#url: "https://rsph.anu.edu.au/people/students/mr-ananthan-ambikairajah"
+#url: "https://researchprofiles.canberra.edu.au/en/persons/ananthan-ambikairajah"
+role: Lecturer
 social:
 - icon: envelope
   icon_pack: fas
@@ -55,6 +56,4 @@ user_groups:
 - Visitors
 ---
 
-Ananthan Ambikairajah is a passionate neuroscientist, educator and science communicator. His research interests include genetic, environmental and lifestyle factors which influence brain health, with a particular focus on neurodegenerative diseases, such as dementia. 
-
-Ananthan is currently completing his PhD, which aims to investigate how physiological changes during midlife impact the brain. Ananthan is determined to conduct research that can have a positive, widespread impact on society, in addition to communicating his scientific work to the public to spark interest, critical thought and encourage scientific discourse. 
+Ananthan Ambikairajah is a passionate neuroscientist, educator and science communicator. His research interests include genetic, environmental and lifestyle factors which influence brain health, with a particular focus on menopause. Ananthan is determined to conduct research that can have a positive, widespread impact on society, in addition to communicating his scientific work to the public to spark interest, critical thought and encourage scientific discourse. 
