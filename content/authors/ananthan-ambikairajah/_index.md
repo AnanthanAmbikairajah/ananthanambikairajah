@@ -24,7 +24,7 @@ organizations:
 - name: University of Canberra
   url: "https://researchprofiles.canberra.edu.au/en/persons/ananthan-ambikairajah"
 # url: "https://rsph.anu.edu.au/people/students/mr-ananthan-ambikairajah"
-role: (Lecturer)[https://researchprofiles.canberra.edu.au/en/persons/ananthan-ambikairajah]
+role: Lecturer
 social:
 - icon: envelope
   icon_pack: fas
