@@ -22,7 +22,7 @@ interests:
 name: Ananthan Ambikairajah
 organizations:
 - name: University of Canberra
-- url: "https://researchprofiles.canberra.edu.au/en/persons/ananthan-ambikairajah"
+- link: "https://researchprofiles.canberra.edu.au/en/persons/ananthan-ambikairajah"
 #- url: "https://rsph.anu.edu.au/people/students/mr-ananthan-ambikairajah"
 role: Lecturer
 social:
