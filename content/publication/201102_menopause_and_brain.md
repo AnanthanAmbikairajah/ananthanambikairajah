@@ -13,12 +13,12 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-citation: '**Ambikairajah, A.**, Tabatabaei-Jafari, H., Hornberger, M., & Cherbuin, N. (2020). Age, menstruation history, and the brain. *Menopause*. 28(2). Published ahead of print. [doi:10.1097/GME.0000000000001688](https://journals.lww.com/menopausejournal/Abstract/9000/Age,_menstruation_history,_and_the_brain.97065.aspx)'
+citation: '**Ambikairajah, A.**, Tabatabaei-Jafari, H., Hornberger, M., & Cherbuin, N. (2021). Age, menstruation history, and the brain. *Menopause*, 28(2), 167-174. [doi:10.1097/GME.0000000000001688](https://doi.org/10.1097/GME.0000000000001688)'
 publication_short: ""
 publication_types: 
 publishDate: "20/05/20"
 slides: ""
-summary: "**Ambikairajah, A.**, Tabatabaei-Jafari, H., Hornberger, M., & Cherbuin, N. (2020). Age, menstruation history, and the brain. *Menopause*. 28(2). Published ahead of print. [doi:10.1097/GME.0000000000001688](https://journals.lww.com/menopausejournal/Abstract/9000/Age,_menstruation_history,_and_the_brain.97065.aspx)"
+summary: "**Ambikairajah, A.**, Tabatabaei-Jafari, H., Hornberger, M., & Cherbuin, N. (2021). Age, menstruation history, and the brain. *Menopause*, 28(2), 167-174. [doi:10.1097/GME.0000000000001688](https://doi.org/10.1097/GME.0000000000001688)"
 tags:
 - 
 title: "Age, menstruation history, and the brain."
@@ -39,4 +39,4 @@ url_video: ""
 **CONCLUSIONS:** Menopause may contribute to brain volume beyond typical aging effects. Furthermore, early age of menarche, delayed age of menopause and increasing duration of reproductive stage were negatively associated with brain volume. Further research is required to determine whether the negative association between age of menopause and HV is potentially an indicator of future vulnerability for dementia.  
 
 **Citation:**    
-**Ambikairajah, A.**, Tabatabaei-Jafari, H., Hornberger, M., & Cherbuin, N. (2020). Age, menstruation history, and the brain. *Menopause*. 28(2). Published ahead of print. [doi:10.1097/GME.0000000000001688](https://journals.lww.com/menopausejournal/Abstract/9000/Age,_menstruation_history,_and_the_brain.97065.aspx)
+**Ambikairajah, A.**, Tabatabaei-Jafari, H., Hornberger, M., & Cherbuin, N. (2021). Age, menstruation history, and the brain. *Menopause*, 28(2), 167-174. [doi:10.1097/GME.0000000000001688](https://doi.org/10.1097/GME.0000000000001688)

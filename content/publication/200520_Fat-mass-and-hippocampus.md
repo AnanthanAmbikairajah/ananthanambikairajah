@@ -14,12 +14,12 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-citation: '**Ambikairajah, A.**, Tabatabaei-Jafari, H., Walsh, E., Hornberger, M., & Cherbuin, N. (2020). Longitudinal changes in fat mass and the hippocampus. *Obesity*. [doi:10.1002/oby.22819](https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.22819)'
+citation: '**Ambikairajah, A.**, Tabatabaei-Jafari, H., Walsh, E., Hornberger, M., & Cherbuin, N. (2020). Longitudinal changes in fat mass and the hippocampus. *Obesity*, 28(7), 1263-1269. [doi:10.1002/oby.22819](https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.22819)'
 publication_short: ""
 publication_types: 
 publishDate: "20/05/20"
 slides: ""
-summary: "**Ambikairajah, A.**, Tabatabaei-Jafari, H., Walsh, E., Hornberger, M., & Cherbuin, N. (2020). Longitudinal changes in fat mass and the hippocampus. *Obesity*. [doi:10.1002/oby.22819](https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.22819)"
+summary: "**Ambikairajah, A.**, Tabatabaei-Jafari, H., Walsh, E., Hornberger, M., & Cherbuin, N. (2020). Longitudinal changes in fat mass and the hippocampus. *Obesity*, 28(7), 1263-1269. [doi:10.1002/oby.22819](https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.22819)"
 tags:
 - 
 title: "Longitudinal changes in fat mass and the hippocampus"
@@ -40,4 +40,4 @@ url_video: ""
 **CONCLUSIONS:** The detrimental effects of overweight/obesity may extend beyond the duration of overweight/obesity itself.   
 
 **Citation:**    
-**Ambikairajah, A.**, Tabatabaei-Jafari, H., Walsh, E., Hornberger, M., & Cherbuin, N. (2020). Longitudinal changes in fat mass and the hippocampus. *Obesity*. [doi:10.1002/oby.22819](https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.22819)
+**Ambikairajah, A.**, Tabatabaei-Jafari, H., Walsh, E., Hornberger, M., & Cherbuin, N. (2020). Longitudinal changes in fat mass and the hippocampus. *Obesity*, 28(7), 1263-1269. [doi:10.1002/oby.22819](https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.22819)
