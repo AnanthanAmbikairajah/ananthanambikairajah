@@ -14,7 +14,7 @@ education:
     institution: University of New South Wales - School of Medical Science
     year: 2012 - 2015
     
-email: "a.ambikairajah@canberra.edu.au"
+email: "ananthan.ambikairajah@canberra.edu.au"
 interests:
 - Neuroscience
 - Education
@@ -28,7 +28,7 @@ role: Lecturer
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:a.ambikairajah@canberra.edu.au'
+  link: 'mailto:ananthan.ambikairajah@canberra.edu.au'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=puLUrGUAAAAJ&hl=en
