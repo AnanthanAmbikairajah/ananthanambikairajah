@@ -4,9 +4,9 @@ authors:
 bio: Neuroscientist. Educator. Science Communicator.
 education:
   courses:
-  - course: PhDc in Neuroscience
+  - course: PhD in Neuroscience
     institution: Australian National University - Research School of Population Health
-    year: 2018 to date
+    year: 2018 - 2022
   - course: Master of Teaching (Secondary)
     institution: University of New South Wales - School of Education
     year: 2016 - 2017
@@ -14,7 +14,7 @@ education:
     institution: University of New South Wales - School of Medical Science
     year: 2012 - 2015
     
-email: "a.ambikairajah@gmail.com"
+email: "a.ambikairajah@canberra.edu.au"
 interests:
 - Neuroscience
 - Education
@@ -28,7 +28,7 @@ role: Lecturer
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:a.ambikairajah@gmail.com'
+  link: 'mailto:a.ambikairajah@canberra.edu.au'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=puLUrGUAAAAJ&hl=en
