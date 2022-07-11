@@ -22,25 +22,33 @@
   name = "Blog"
   url = "#posts"
   weight = 40
+
+# Link to a PDF of your Thesis from the menu.
+# To enable, copy your Thesis to `static/files/cv.pdf` and uncomment the lines below.
+
+[[main]]
+  name = "PhD Thesis"
+  url = "https://ananthanambikairajah.com/files/Thesis Material - Ananthan_Ambikairajah_PhD_Thesis.pdf"
+  weight = 50
   
 [[main]]
   name = "Podcast"
   url = "https://podcasts.apple.com/us/podcast/midnight-conversations/id1466395104"
-  weight = 50
+  weight = 60
   
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "https://ananthanambikairajah.com/files/Ananthan_Ambikairajah_CV_Academia.pdf"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Media/Talks"
   url = "https://ananthanambikairajah.com/files/Ananthan_Ambikairajah_Media_Outreach.pdf"
-  weight = 70
+  weight = 80
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 90
