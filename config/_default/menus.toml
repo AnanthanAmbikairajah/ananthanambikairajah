@@ -18,17 +18,17 @@
   url = "#publications"
   weight = 30
   
-[[main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 40
-
 # Link to a PDF of your Thesis from the menu.
 # To enable, copy your Thesis to `static/files/cv.pdf` and uncomment the lines below.
 
 [[main]]
   name = "PhD Thesis"
   url = "https://ananthanambikairajah.com/files/Thesis Material - Ananthan_Ambikairajah_PhD_Thesis.pdf"
+  weight = 40
+  
+[[main]]
+  name = "Blog"
+  url = "#posts"
   weight = 50
   
 [[main]]
