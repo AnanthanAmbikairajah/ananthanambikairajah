@@ -25,7 +25,7 @@ tags:
 title: "Longitudinal changes in fat mass and the hippocampus"
 url_code: ""
 url_dataset: ""
-url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.22819"
+url_pdf: "https://ananthanambikairajah.com/files/Ambikairajah et al_2020_Longitudinal Changes in Fat Mass and the Hippocampus_Obesity.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
