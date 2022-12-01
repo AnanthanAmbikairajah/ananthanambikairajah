@@ -24,7 +24,7 @@ tags:
 title: "Age, menstruation history, and the brain."
 url_code: ""
 url_dataset: ""
-url_pdf: "https://journals.lww.com/menopausejournal/Abstract/9000/Age,_menstruation_history,_and_the_brain.97065.aspx"
+url_pdf: "https://ananthanambikairajah.com/files/Ambikairajah_Age_Menstruation_History_and_Brain_Accepted_Version.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
