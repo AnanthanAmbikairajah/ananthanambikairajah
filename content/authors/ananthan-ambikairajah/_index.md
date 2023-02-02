@@ -4,7 +4,7 @@ authors:
 bio: Neuroscientist. Educator. Science Communicator.
 education:
   courses:
-  - course: PhD in Neuroscience
+  - course: PhD
     institution: Australian National University - Research School of Population Health
     year: 2018 - 2022
   - course: Master of Teaching (Secondary)
