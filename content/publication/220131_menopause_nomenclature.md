@@ -23,7 +23,7 @@ tags:
 title: "A review of menopause nomenclature."
 url_code: ""
 url_dataset: ""
-url_pdf: "https://reproductive-health-journal.biomedcentral.com/track/pdf/10.1186/s12978-022-01336-7.pdf"
+url_pdf: "https://ananthanambikairajah.com/files/Ambikairajah et al_2022_A review of menopause nomenclature_Reproductive Health.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
