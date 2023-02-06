@@ -12,12 +12,12 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-citation: '**Ambikairajah, A.**, Walsh, E., & Cherbuin, N. (2022). A review of menopause nomenclature. *Reproductive Health*, 19(29). [doi:10.1186/s12978-022-01336-7](https://doi.org/10.1186/s12978-022-01336-7)'
+citation: '**Ambikairajah, A.**, Walsh, E., & Cherbuin, N. (2022). A review of menopause nomenclature. *Reproductive Health*, 19(29), 1-15. [doi:10.1186/s12978-022-01336-7](https://doi.org/10.1186/s12978-022-01336-7)'
 publication_short: ""
 publication_types: 
 publishDate: "31/01/22"
 slides: ""
-summary: "**Ambikairajah, A.**, Walsh, E., & Cherbuin, N. (2022). A review of menopause nomenclature. *Reproductive Health*, 19(29). [doi:10.1186/s12978-022-01336-7](https://doi.org/10.1186/s12978-022-01336-7)"
+summary: "**Ambikairajah, A.**, Walsh, E., & Cherbuin, N. (2022). A review of menopause nomenclature. *Reproductive Health*, 19(29), 1-15. [doi:10.1186/s12978-022-01336-7](https://doi.org/10.1186/s12978-022-01336-7)"
 tags:
 - 
 title: "A review of menopause nomenclature."
@@ -41,4 +41,4 @@ url_video: ""
 **Conclusion:** There is a significant amount of heterogeneity associated with the definition of *premenopause*, compared with *postmenopause*. We propose three key suggestions/recommendations, which can be distilled from these findings. Firstly, premenopause should be transparently operationalised and reported. Secondly, as a minimum requirement, regular menstruation should be defined as the number of menstrual cycles in a period of at least 3 months. Finally, the utility of introducing normative age-ranges as supplementary criterion for defining stages of reproductive ageing should be considered. The use of consistent terminology in research will enhance our capacity to compare results from different studies and more effectively investigate issues related to women's health and ageing. 
 
 **Citation:**    
-**Ambikairajah**, A., Walsh, E., & Cherbuin, N. (2022). A review of menopause nomenclature. *Reproductive Health*, 19(29). [doi:10.1186/s12978-022-01336-7](https://doi.org/10.1186/s12978-022-01336-7)
+**Ambikairajah**, A., Walsh, E., & Cherbuin, N. (2022). A review of menopause nomenclature. *Reproductive Health*, 19(29), 1-15. [doi:10.1186/s12978-022-01336-7](https://doi.org/10.1186/s12978-022-01336-7)
