@@ -27,28 +27,23 @@
   weight = 40
   
 [[main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 50
-  
-[[main]]
   name = "Podcast"
-  url = "https://podcasts.apple.com/us/podcast/midnight-conversations/id1466395104"
-  weight = 60
+  url = "https://open.spotify.com/show/4SwmOkuSjlXLTzfMkjcPRh?si=7e73f8ef5f404402"
+  weight = 50
   
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "https://ananthanambikairajah.com/files/Ananthan_Ambikairajah_CV_Academia.pdf"
-  weight = 70
+  weight = 60
 
 [[main]]
   name = "Media/Talks"
   url = "https://ananthanambikairajah.com/files/Ananthan_Ambikairajah_Media_Outreach.pdf"
-  weight = 80
+  weight = 70
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 90
+  weight = 80
