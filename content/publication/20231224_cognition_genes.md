@@ -8,7 +8,7 @@ authors:
 - Burns, R.
 - Brustle, A.
 - Rasmussen, J. L
-date: "2023-12-23T00:00:00Z"
+date: "2024-1-24T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -19,7 +19,7 @@ projects: []
 citation: ''
 publication_short: ""
 publication_types: 
-publishDate: "24/12/23"
+publishDate: "24/01/24"
 slides: ""
 summary: "Cherbuin, N.; Patel, H.; Walsh, E.I.; Ambikairajah, A.; Burns, R.; Brüstle, A.; Rasmussen, L.J. (2024). Cognitive Function Is Associated with the Genetically Determined Efficiency of DNA Repair Mechanisms. *Genes*, *15*, 153. [doi: https://doi.org/10.3389/fgwh.2023.1320640](https://doi.org/10.3390/genes15020153)"
 tags:
