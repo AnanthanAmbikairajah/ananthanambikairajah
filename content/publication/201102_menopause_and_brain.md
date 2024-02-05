@@ -18,7 +18,7 @@ publication_short: ""
 publication_types: 
 publishDate: "20/05/20"
 slides: ""
-summary: "**Ambikairajah, A.**, Tabatabaei-Jafari, H., Hornberger, M., & Cherbuin, N. (2021). Age, menstruation history, and the brain. *Menopause*, 28(2), 167-174. [doi:10.1097/GME.0000000000001688](https://doi.org/10.1097/GME.0000000000001688)"
+summary: "**Ambikairajah, A.**, Tabatabaei-Jafari, H., Hornberger, M., & Cherbuin, N. (2021). Age, menstruation history, and the brain. *Menopause*, *28*(2), 167-174. [doi:10.1097/GME.0000000000001688](https://doi.org/10.1097/GME.0000000000001688)"
 tags:
 - 
 title: "Age, menstruation history, and the brain."

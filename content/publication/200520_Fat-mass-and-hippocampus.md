@@ -19,7 +19,7 @@ publication_short: ""
 publication_types: 
 publishDate: "20/05/20"
 slides: ""
-summary: "**Ambikairajah, A.**, Tabatabaei-Jafari, H., Walsh, E., Hornberger, M., & Cherbuin, N. (2020). Longitudinal changes in fat mass and the hippocampus. *Obesity*, 28(7), 1263-1269. [doi:10.1002/oby.22819](https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.22819)"
+summary: "**Ambikairajah, A.**, Tabatabaei-Jafari, H., Walsh, E., Hornberger, M., & Cherbuin, N. (2020). Longitudinal changes in fat mass and the hippocampus. *Obesity*, *28*(7), 1263-1269. [doi:10.1002/oby.22819](https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.22819)"
 tags:
 - 
 title: "Longitudinal changes in fat mass and the hippocampus"

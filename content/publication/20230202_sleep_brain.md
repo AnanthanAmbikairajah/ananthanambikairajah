@@ -17,7 +17,7 @@ publication_short: ""
 publication_types: 
 publishDate: "01/01/23"
 slides: ""
-summary: "Namsrai, T., **Ambikairajah, A**. & Cherbuin, N. (2023). Poorer sleep impairs brain health at midlife. *Scientific Reports*, 13(1), 1-10. [doi:10.1038/s41598-023-27913-9](https://doi.org/10.1038/s41598-023-27913-9)"
+summary: "Namsrai, T., **Ambikairajah, A**. & Cherbuin, N. (2023). Poorer sleep impairs brain health at midlife. *Scientific Reports*, *13*(1), 1-10. [doi:10.1038/s41598-023-27913-9](https://doi.org/10.1038/s41598-023-27913-9)"
 tags:
 - 
 title: "Poorer Sleep Quality Impairs Brain Health at Midlife."

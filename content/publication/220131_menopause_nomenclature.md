@@ -17,7 +17,7 @@ publication_short: ""
 publication_types: 
 publishDate: "31/01/22"
 slides: ""
-summary: "**Ambikairajah, A.**, Walsh, E., & Cherbuin, N. (2022). A review of menopause nomenclature. *Reproductive Health*, 19(29), 1-15. [doi:10.1186/s12978-022-01336-7](https://doi.org/10.1186/s12978-022-01336-7)"
+summary: "**Ambikairajah, A.**, Walsh, E., & Cherbuin, N. (2022). A review of menopause nomenclature. *Reproductive Health*, *19*(29), 1-15. [doi:10.1186/s12978-022-01336-7](https://doi.org/10.1186/s12978-022-01336-7)"
 tags:
 - 
 title: "A review of menopause nomenclature."

@@ -17,7 +17,7 @@ publication_short: ""
 publication_types: 
 publishDate: "11/05/21"
 slides: ""
-summary: "**Ambikairajah, A.**, Ambikairajah, R., & Ambikairajah, E. (2021). The impact of improving feelings of relatedness on motivation and engagement for tertiary students. *International Journal of Mathematical Education in Science and Technology*, 52(5), 721-730. [doi:10.1080/0020739X.2019.1703149](https://doi.org/10.1080/0020739X.2019.1703149)"
+summary: "**Ambikairajah, A.**, Ambikairajah, R., & Ambikairajah, E. (2021). The impact of improving feelings of relatedness on motivation and engagement for tertiary students. *International Journal of Mathematical Education in Science and Technology*, *52*(5), 721-730. [doi:10.1080/0020739X.2019.1703149](https://doi.org/10.1080/0020739X.2019.1703149)"
 tags:
 - 
 title: "The impact of improving feelings of relatedness on motivation and engagement for tertiary students"
