@@ -25,7 +25,7 @@ slides: ""
 summary: "**Ambikairajah, A.**, Khondoker, M., Morris, E., de Lange, A. M. G., Saleh, R. N. M., Minihane, A. M.,& Hornberger, M. (2024). Investigating the synergistic effects of hormone replacement therapy, apolipoprotein E and age on brain health in the UK Biobank. *Human Brain Mapping*, *45*(2), e26612. [doi: https://doi.org/10.1002/hbm.26612](https://doi.org/10.1002/hbm.26612)"
 tags:
 - 
-title: "Investigating the synergistic effects of hormone replacement therapy, apolipoprotein E and age on brain health in the UK Biobank.s"
+title: "Investigating the synergistic effects of hormone replacement therapy, apolipoprotein E and age on brain health in the UK Biobank."
 url_code: ""
 url_dataset: ""
 url_pdf: "https://ananthanambikairajah.com/files/Ambikairajah et al_2024_Investigating the synergistic effects of hormone replacement therapy, apolipoprotein E and age on brain health in the UK BiobankHuman Brain Mapping.pdf"
