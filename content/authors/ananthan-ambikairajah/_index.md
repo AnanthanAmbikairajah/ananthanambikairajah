@@ -2,23 +2,23 @@
 authors:
 - Ananthan Ambikairajah
 bio: Neuroscientist. Educator. Science Communicator.
-education:
-  courses:
-  - course: PhD
-    institution: Australian National University - Research School of Population Health
-    year: 2018 - 2022
-  - course: Master of Teaching (Secondary)
-    institution: University of New South Wales - School of Education
-    year: 2016 - 2017
-  - course: Bachelor of Science (Neuroscience)
-    institution: University of New South Wales - School of Medical Science
-    year: 2012 - 2015
+# education:
+#  courses:
+#  - course: PhD
+#    institution: Australian National University - Research School of Population Health
+#    year: 2018 - 2022
+#  - course: Master of Teaching (Secondary)
+#    institution: University of New South Wales - School of Education
+#    year: 2016 - 2017
+#  - course: Bachelor of Science (Neuroscience)
+#    institution: University of New South Wales - School of Medical Science
+#    year: 2012 - 2015
     
 email: "ananthan.ambikairajah@canberra.edu.au"
-interests:
-- Neuroscience
-- Education
-- Science Communication
+# interests:
+# - Neuroscience
+# - Education
+# - Science Communication
 name: Ananthan Ambikairajah
 organizations:
 - name: University of Canberra
@@ -56,4 +56,6 @@ user_groups:
 - Visitors
 ---
 
-Ananthan Ambikairajah is a passionate neuroscientist, educator and science communicator. His research interests include genetic, environmental and lifestyle factors which influence ageing, brain health and disease, with a particular focus on sex-specific determinants. Ananthan is determined to conduct research that can have a positive and widespread impact on society, in addition to communicating his scientific work to the public to spark interest, critical thought and encourage scientific discourse. 
+Ananthan is a passionate neuroscientist, educator and science communicator. He is a Lecturer at the University of Canberra (UC) and a core member of the Centre for Ageing Research and Translation (CARAT) at UC. Ananthan completed his PhD in Neuroscience at the Australian National University in 2022. In 2024, Ananthan received the Outstanding New Researcher Highly Commended Award from the ACT Minister for Health. His research interests include genetic, environmental and lifestyle factors which influence ageing, brain health and disease, with a particular focus on sex-specific determinants, cardiometabolic factors and dementia. Ananthan has expertise in big data analyses, statistics, git, Linux and R.
+
+Ananthan is also a passionate educator and science communicator. After completing his Undergraduate degree in Neuroscience at UNSW, he obtained a Master's in Teaching (Secondary) and is a Higher Education Academy Fellow. In 2024, Ananthan received the Faculty of Health Student Nominated Award for Excellence in Teaching at UC. Ananthan regularly engages with media and his research has been covered by ABC News, Nine News, Sydney Morning Herald, the Australian Financial Review, The Australian and ABC Radio. He also hosts a podcast called Midnight Conversations, which aims to communicate research and the principles of scientific thinking to the public in an engaging and accessible way. His podcast is available on Apple Podcasts and Spotify. 
