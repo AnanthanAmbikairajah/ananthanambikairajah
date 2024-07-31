@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Featured Talk: A summary of my PhD research"
+title = "From FRONTIER to Frontier: Investigating Brain Health Risk Factors using Big Data Analysis"
 subtitle = ""
 
 [design]
@@ -43,4 +43,7 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< youtube id="H-CGqg1cQYg" >}}
+{{< youtube id="jgGK-v7X9rk" >}}
+
+
+[Download the PDF](static/files/Ambikairajah_research-summary-presentation_2024.pdf)
