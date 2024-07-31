@@ -37,7 +37,26 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = """
+ .button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  background-color: #007BFF;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+"""
  
  # CSS class.
  css_class = ""
@@ -45,5 +64,4 @@ subtitle = ""
 
 {{< youtube id="jgGK-v7X9rk" >}}
 
-
-[Download the PDF](static/files/Ambikairajah_research-summary-presentation_2024.pdf)
+<a href="files/Ambikairajah_research-summary-presentation_2024.pdf" class="button">Download the PDF presentation slides</a>
